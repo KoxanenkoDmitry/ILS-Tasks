@@ -1,0 +1,31 @@
+Start Test 1 
+Current url http://u920152e.beget.tech/#
+email entered
+email entered
+enter button click
+authorization complete
+under 18 button click
+send button click
+Current url http://u920152e.beget.tech/page2.html
+text is: Никоторые считают что человек взраслеит в каком нибудь оприделённом возрасте например, к 18 лет , когда он становиться совершенно летним. Но есть люди, которые и в более старшем возрасте остаются детьми. Что же значит быть взрослым? Взрослость озночает самостоятельность, то есть умение обходится без чьей-либо помощи опеки. Человек обладающий этим качеством всё делает сам, и не ждёт поддержки от других. Он понимает, что свои трудности должен преодалевать сам. Конечно бывают ситуации, когда человеку одному не справится. Понимая это, ему приходиться просить помощи у друзей, родственников, и знакомых. Однако в целом самостоятельному, взрослому человеку не свойственно надеяться на других. Есть такое выражение: руке следует ждать помощи только от плеча. Самостоятельный человек умеет отвечать за себя свои дела и поступки. Он сам планирует свою жизнь, и оценивает себя не пологаясь на чьё-то мнение. Он понимает, что многое в жизни зависет от него самого. Быть взрослым - значит отвечать за кого-то ещё. Но для этого тоже надо стать самостоятельным, уметь принимать решения. Взрослость зависет не от возраста, а от жизненного опыта от стремления прожить жизнь без нянек.
+Good value word
+check page under 18 is okay
+18-24 button click
+send button click
+Current url http://u920152e.beget.tech/page7.html
+text is: Not Found
+Good value word
+check page from 18 to 24 is okay
+25-34 button click
+send button click
+Current url http://u920152e.beget.tech/page7.html
+text is: Not Found
+Good value word
+check page from 25 to 34 is okay
+more 35 button click
+send button click
+Current url http://u920152e.beget.tech/page7.html
+text is: Not Found
+Good value word
+check page more 35 is okay
+Success! Test is pass!

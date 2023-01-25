@@ -1,0 +1,99 @@
+
+-----
+Test: tests/test_1.py::test_site_functionality_check (call)
+Start time: 2023-01-25 17:00:35.233707
+Start name method: enter_email_and_password
+
+End time: 2023-01-25 17:00:35.604704
+End name method: enter_email_and_password
+URL: http://u920152e.beget.tech/page1.html?auth_email=1111%40mail.ru&auth_pass=1111&form_auth_submit=
+
+-----
+
+-----
+Test: tests/test_1.py::test_site_functionality_check (call)
+Start time: 2023-01-25 17:00:35.605704
+Start name method: choose_radiobutton_under_18
+
+End time: 2023-01-25 17:00:35.910682
+End name method: choose_radiobutton_under_18
+URL: http://u920152e.beget.tech/page2.html
+
+-----
+
+-----
+Test: tests/test_1.py::test_site_functionality_check (call)
+Start time: 2023-01-25 17:00:35.911684
+Start name method: check_text_on_page_under_18
+
+End time: 2023-01-25 17:00:38.087698
+End name method: check_text_on_page_under_18
+URL: http://u920152e.beget.tech/page1.html?auth_email=1111%40mail.ru&auth_pass=1111&form_auth_submit=
+
+-----
+
+-----
+Test: tests/test_1.py::test_site_functionality_check (call)
+Start time: 2023-01-25 17:00:38.087698
+Start name method: choose_radiobutton_from_18_to_24
+
+End time: 2023-01-25 17:00:38.405952
+End name method: choose_radiobutton_from_18_to_24
+URL: http://u920152e.beget.tech/page7.html
+
+-----
+
+-----
+Test: tests/test_1.py::test_site_functionality_check (call)
+Start time: 2023-01-25 17:00:38.406954
+Start name method: check_text_on_page_from_18_to_24
+
+End time: 2023-01-25 17:00:40.603811
+End name method: check_text_on_page_from_18_to_24
+URL: http://u920152e.beget.tech/page1.html?auth_email=1111%40mail.ru&auth_pass=1111&form_auth_submit=
+
+-----
+
+-----
+Test: tests/test_1.py::test_site_functionality_check (call)
+Start time: 2023-01-25 17:00:40.604818
+Start name method: choose_radiobutton_from_25_to_34
+
+End time: 2023-01-25 17:00:40.946790
+End name method: choose_radiobutton_from_25_to_34
+URL: http://u920152e.beget.tech/page7.html
+
+-----
+
+-----
+Test: tests/test_1.py::test_site_functionality_check (call)
+Start time: 2023-01-25 17:00:40.947815
+Start name method: check_text_on_page_from_25_to_34
+
+End time: 2023-01-25 17:00:43.111687
+End name method: check_text_on_page_from_25_to_34
+URL: http://u920152e.beget.tech/page1.html?auth_email=1111%40mail.ru&auth_pass=1111&form_auth_submit=
+
+-----
+
+-----
+Test: tests/test_1.py::test_site_functionality_check (call)
+Start time: 2023-01-25 17:00:43.112685
+Start name method: choose_radiobutton_more_35
+
+End time: 2023-01-25 17:00:43.429050
+End name method: choose_radiobutton_more_35
+URL: http://u920152e.beget.tech/page7.html
+
+-----
+
+-----
+Test: tests/test_1.py::test_site_functionality_check (call)
+Start time: 2023-01-25 17:00:43.430051
+Start name method: check_text_on_page_more_35
+
+End time: 2023-01-25 17:00:45.602762
+End name method: check_text_on_page_more_35
+URL: http://u920152e.beget.tech/page1.html?auth_email=1111%40mail.ru&auth_pass=1111&form_auth_submit=
+
+-----
